@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+
+int Function_1(int i)
+{
+	for(int i=0;i<i;i++)
+	{
+		cout<<"Hello World...";
+	}
+}
+
+int main()
+{
+	Function_1(5);
+	return 0;
+}
