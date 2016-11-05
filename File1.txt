@@ -7,6 +7,7 @@ int Function_1(int i)
 	{
 		cout<<"Hello World...";
 	}
+	cout<<"Its 2nd Time...";
 }
 
 int main()
